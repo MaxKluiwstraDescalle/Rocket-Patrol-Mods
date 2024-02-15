@@ -7,7 +7,7 @@ Add time remaining on screen: 3 points
 Cleaned up title screen to make it more gmae like: 3 points
 New Scrolling Tile Sprite (added Meteors :3): 1 point
 New Spaceship worth more points, new design, and faster(gl hitting it): 5 points (Made one of the intial ones go slower and move it for fun, it also gives less points)
-I
+Use Phaser's particle emitter to create a particle explosion when the rocket hits the spaceship: 5 points
 
 Sources: 
 https://stackoverflow.com/questions/73127868/phaser-time-event-wont-loop
